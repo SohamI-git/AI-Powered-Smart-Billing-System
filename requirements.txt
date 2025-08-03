@@ -1,0 +1,9 @@
+ultralytics
+opencv-python
+face-recognition
+speechrecognition
+gtts
+openai
+gradio
+streamlit
+qrcode
